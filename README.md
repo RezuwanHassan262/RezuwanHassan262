@@ -2,7 +2,7 @@
 
 ---
 
-##I'm a responsible, hardworking, and skilled graduate of Computer Science Engineering from North South University with a major in Artificial Intelligence. I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack Web developement.
+
 
 <!--
 **RezuwanHassan262/RezuwanHassan262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 
 
 
-<h3>I'm a passionate, hardworking, and skilled Machine Learning Engineer.</h3>
+<h2>I'm a passionate, hardworking, and skilled Machine Learning Engineer.</h2>
 
 
 I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University and M.Sc. in Computer Science and Engineering majoring in Artificial Intelligence from the same institution.

@@ -1,6 +1,6 @@
 # Hey, I'm Md. Rezuwan Hassan and welcome to my GitHub profile!
 
-> _“Stay Hungry, Stay Foolish”_ ~ Steve Jobs
+> “Stay Hungry, Stay Foolish” ~ _Steve Jobs_
 
 ---
 

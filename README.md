@@ -1,6 +1,6 @@
 # Hey, I'm Md. Rezuwan Hassan and welcome to my GitHub profile!
 
-> Text that is a quote
+> “Stay Hungry, Stay Foolish” ~ Steve Jobs 
 ---
 
 ## I'm a responsible, passionate, hardworking, and skilled Machine Learning Engineer. I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University,and M.Sc. in Computer Science and Engineering department majoring in Artificial Intelligence from the same institution.

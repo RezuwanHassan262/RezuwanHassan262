@@ -4,9 +4,15 @@
 
 ---
 
-## I'm a responsible, passionate, hardworking, and skilled Machine Learning Engineer. I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University,and M.Sc. in Computer Science and Engineering department majoring in Artificial Intelligence from the same institution.
+## I'm a passionate, hardworking, and skilled Machine Learning Engineer. I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University and M.Sc. in Computer Science and Engineering majoring in Artificial Intelligence from the same institution.
 
-I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack Web developement.
+I'm really passionate about AI and eager to make meaningful contributions to all the domains of the field through my efforts.
+Growing up, I was always fascinated with language, especially my mother tongue Bengali which mostly influenced me to pick Natural Language Processing (NLP) as my working domain. Apart from NLP, I also have interest in Computational Cognitive Science, Human-Computer Interaction, Computer Vision, Federated Learning, Meta-Learning, and Reinforcement learning.
+
+
+In my leisure, I pursue my hobbies and I have multiple hobbies. I am really into music and I play Bass guitar, I love to take photographs, I also love sketching, writing, reading books and watching movies.
+
+
 
 <!--
 **RezuwanHassan262/RezuwanHassan262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

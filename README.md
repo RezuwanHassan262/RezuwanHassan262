@@ -13,7 +13,7 @@ Growing up, I was always fascinated with language, especially my mother tongue B
 In my leisure, I pursue my hobbies and I have multiple hobbies. I am really into music and I play Bass guitar, I love to take photographs, I also love sketching, writing, reading books and watching movies.
 
 
-My email: rezwanhasan262@@gmail.com
+My email: rezwanhasan262@gmail.com
 
 
 <!--

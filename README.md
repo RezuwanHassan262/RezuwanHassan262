@@ -1,6 +1,6 @@
 ### Hey, I'm Rezuwan, and welcome to my GitHub profile!
 
---- Enter
+---
 
 ##I'm a responsible, hardworking, and skilled graduate of Computer Science Engineering from North South University with a major in Artificial Intelligence. I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack Web developement.
 

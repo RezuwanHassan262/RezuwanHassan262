@@ -1,8 +1,10 @@
 ### Hey, I'm Rezuwan, and welcome to my GitHub profile!
 
---
+---
 
+#I'm a responsible, passionate, hardworking, and skilled Machine Learning Engineer. I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University,and M.Sc. in Computer Science and Engineering department majoring in Artificial Intelligence from the same institution.
 
+I'm passionate about AI and eager to make meaningful contributions to the field. I also have good understanding in Fullstack Web developement.
 
 <!--
 **RezuwanHassan262/RezuwanHassan262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

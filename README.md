@@ -16,6 +16,7 @@ In my leisure, I pursue my hobbies and I have multiple hobbies. I am really into
   <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
+  <br>
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
   </a>

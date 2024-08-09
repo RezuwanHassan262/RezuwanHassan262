@@ -12,6 +12,7 @@ Growing up, I was always fascinated with language, especially my mother tongue B
 <br>
 In my leisure, I pursue my hobbies and I have multiple hobbies. I am really into music and I play Bass guitar, I love to take photographs, I also love sketching, writing, reading books and watching movies.
 
+[![image]({BadgeURLHere})](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 My email: rezwanhasan262@gmail.com
 

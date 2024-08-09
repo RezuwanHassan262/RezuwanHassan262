@@ -13,8 +13,8 @@ Growing up, I was always fascinated with language, especially my mother tongue B
 In my leisure, I pursue my hobbies and I have multiple hobbies. I am really into music and I play Bass guitar, I love to take photographs, I also love sketching, writing, reading books and watching movies.
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  <a href="https://bd.linkedin.com/in/md-rezuwan-hasan-04246416b" rel="nofollow noreferrer">
+    <i class="ci ci-spotify ci-2x"></i> LinkedIn
   </a> &nbsp; 
   <br>
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">

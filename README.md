@@ -17,14 +17,6 @@ which mostly influenced me to pick Natural Language Processing (NLP) as my worki
 In my leisure, I pursue my hobbies. I am really into music and I play the Bass guitar, I also love to take photographs, I also love sketching, writing, reading books and watching movies.
 
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://bd.linkedin.com/in/md-rezuwan-hasan-04246416b)
-&nbsp;
-
-[![GitHub](<i class="fa-brands fa-github"></i>) GitHub](https://github.com/RezuwanHassan262)
-
-
-
-
 
 My email: rezwanhasan262@gmail.com
 
@@ -52,5 +44,6 @@ Here are some ideas to get you started:
 <p align="left">
   
 <a href="https://www.linkedin.com/in/md-rezuwan-hasan-04246416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="RezuwanHassan262" height="30" width="40" /></a>
+
 
 </p>

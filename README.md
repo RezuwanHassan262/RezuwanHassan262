@@ -44,9 +44,11 @@ Here are some ideas to get you started:
 <p align="left">
 
 
-<a href="https://www.linkedin.com/in/md-rezuwan-hasan-04246416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Link" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mdrezuwanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Link" height="30" width="40" /></a
-<a href="https://instagram.com/saadism_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadism_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-rezuwan-hasan-04246416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Link" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/mdrezuwanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Link" height="40" width="40" /></a>
+
+<a href="https://scholar.google.com/citations?user=ZUrWZhQAAAAJ&hl=en" target="blank"><img align="center" src="https://icons8.com/icon/drPiDBy9kkJ3/google-scholar" alt="Google Scholar Link" height="30" width="40" /></a>
+
 
 
 

@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 > _“Stay Hungry, Stay Foolish” ~ Steve Jobs_
 
-![large-filled-discord](large/filled/discord.svg)
+![large-filled-discord](https://github.com/RezuwanHassan262/readme-social-icons/large/filled/discord.svg)
 ![large-filled-dribbble](large/filled/dribbble.svg)
 ![large-filled-facebook](large/filled/facebook.svg)
 ![large-filled-github](large/filled/github.svg)

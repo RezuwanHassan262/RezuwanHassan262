@@ -43,12 +43,13 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/md-rezuwan-hasan-04246416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Link" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/md-rezuwan-hasan-04246416b" target="blank"><img align="center" src="hhttps://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Link" height="30" width="40" /></a>
+
 
 <a href="https://www.kaggle.com/mdrezuwanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Link" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/saadism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadism" height="30" width="40" /></a>
-<a href="https://fb.com/saadismm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saadismm" height="30" width="40" /></a>
+
 <a href="https://instagram.com/saadism_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadism_" height="30" width="40" /></a>
 
 

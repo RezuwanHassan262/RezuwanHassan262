@@ -19,7 +19,7 @@ In my leisure, I pursue my hobbies. I am really into music and I play the Bass g
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://bd.linkedin.com/in/md-rezuwan-hasan-04246416b)
 &nbsp;
-<br>
+
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 
 

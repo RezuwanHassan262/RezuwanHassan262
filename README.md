@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/md-rezuwan-hasan-04246416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Link" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mdrezuwanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Link" height="30" width="40" /></a>
 
-<a href="https://scholar.google.com/citations?user=ZUrWZhQAAAAJ&hl=en" target="blank"><img align="center" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" alt="Google Scholar Link" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=ZUrWZhQAAAAJ&hl=en" target="blank"><img align="center" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" alt="Google Scholar Link" height="40" width="40" /></a>
 
 
 

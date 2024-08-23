@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/14240760/md-rezuwan-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow Link" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/0efb57bct29kilrcjvkw9jnjk?si=62e69017ee0b4741" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify Link" height="30" width="40" /></a>
 <a href="https://www.flickr.com/photos/139437500@N06/page1" target="blank"><img align="center" src="https://www.flickr.com/favicon.ico" alt="Flickr Link" height="40" width="40" /></a>
-<a href="https://www.deviantart.com/noobdoodlerrazor" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAPFBMVEUGBw0AAACRkZKtra6np6dcXV/////c3N34+PhtbnD7+/vExMXKysu1tbYpKSwAAAj09PSenp8PEBbNzc67j3GhAAAAhklEQVR4AWKgEwDQRQc5AIIwEEUzFiuiWsX739VWEhaW/u0LJAzQQpuIUqCYWYtwUcsO8bWyVvC3bbfYOhwW7p0Oczcyi1DE4cWl2e0fIrUimWVAvKLdnFCrV9z8VfiCOynNxgtRjDi5VxwebO2Pto3nW2GNF1qij2RtjjARTXiHN2HRBwAApIYFfSFEjJ0AAAAASUVORK5CYII=" alt="Deviant Art Link" height="40" width="40" /></a>
+<a href="https://www.deviantart.com/noobdoodlerrazor" target="blank"><img align="center" src="https://www.shareicon.net/data/48x48/2016/07/09/118301_deviantart_512x512.png" alt="Deviant Art Link" height="40" width="40" /></a>
 
 
 

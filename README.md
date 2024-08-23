@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 > _“Stay Hungry, Stay Foolish” ~ Steve Jobs_
 
-![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg)
-![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg)
-![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)
-![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/medium.svg)
-![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg)
-![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)
+![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg) +
+![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg) ...
+![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg) +
+![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/medium.svg) ...
+![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg) +
+![large-filled-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg) ...

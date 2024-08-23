@@ -7,18 +7,22 @@
 
 I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University and M.Sc. in Computer Science and Engineering majoring in Artificial Intelligence from the same institution. <br>
 I'm passionate about AI and eager to make meaningful contributions to all the domains of the field through my efforts. <br>
-Growing up, I was always fascinated with language, especially my mother tongue Bengali which mostly influenced me to pick Natural Language Processing (NLP) as my working domain. Apart from NLP, I also have interest in Computational Cognitive Science, Human-Computer Interaction, Computer Vision, Federated Learning, Meta-Learning, and Reinforcement learning.
-<br>
-<br>
-In my leisure, I pursue my hobbies and I have multiple hobbies. I am really into music and I play the Bass guitar, I love to take photographs, I also love sketching, writing, reading books and watching movies.
+Growing up, I was always fascinated with language, especially my mother tongue Bengali. 
 
-<!--
+I have always found it to be really intriguing and yet so beautiful. Both structurakly and to hear in my ears. 
+
+which mostly influenced me to pick Natural Language Processing (NLP) as my working domain. Apart from NLP, I also have interest in Computational Cognitive Science, Human-Computer Interaction, Computer Vision, Federated Learning, Meta-Learning, and Reinforcement learning.
+<br>
+<br>
+In my leisure, I pursue my hobbies. I am really into music and I play the Bass guitar, I also love to take photographs, I also love sketching, writing, reading books and watching movies.
+
+
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://bd.linkedin.com/in/md-rezuwan-hasan-04246416b)
 &nbsp;
 <br>
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 
--->
+
 
 My email: rezwanhasan262@gmail.com
 

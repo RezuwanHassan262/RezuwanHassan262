@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> _“Machines require large datasets and extensive computational training to replicate what comes naturally to you, so embrace your intrinsic gifts and prioritize your humanity above all!” ~ Md. Rezuwan Hassan_
+> _“Machines require large datasets and extensive computational training to replicate what comes naturally to you, so embrace your innate abilities and prioritize your humanity” ~ Md. Rezuwan Hassan_
 
 
 

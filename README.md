@@ -10,7 +10,7 @@ I'm passionate about AI and eager to make meaningful contributions to all the do
 Growing up, I was always intrigued by different languages, especially my mother tongue Bengali. I have always found it to be grammatically convoluted and yet so exquisite in practice, especially in the classical literature and song lyrics. On top of that, So beautiful to hear in the ears. Which eventually led me to pick Natural Language Processing (NLP) as my working domain. Apart from NLP, I also have an interest in other AI domains such as Computational Cognitive Science, Human-Computer Interaction, Federated Learning, Meta-Learning, Reinforcement learning, Healthcare/Medical AI, and Computer Vision.
 <br>
 <br>
-In my leisure, I pursue my hobbies. I am really into music and I play the bass guitar, I also love to take photographs, I also love sketching, writing, reading books and watching movies.
+In my leisure, I pursue my hobbies. I am really into music and I play the bass guitar, I also love to take photographs, do sketches, write, read books and watch films.
 
 
 

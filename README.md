@@ -7,10 +7,10 @@
 
 I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University and M.Sc. in Computer Science and Engineering majoring in Artificial Intelligence from the same institution. <br>
 I'm passionate about AI and eager to make meaningful contributions to all the domains of the field through my efforts. <br>
-Growing up, I was always intrigued by languages, especially by my mother tongue Bengali. I have always found it to be convoluted grammatically and yet so exquisite in practice, especially in the old piece of literature and song lyrics. On top of that, So beautiful to hear the ears. Which eventually led me to pick Natural Language Processing (NLP) as my working domain. Apart from NLP, I also have an interest in Computational Cognitive Science, Human-Computer Interaction, Computer Vision, Federated Learning, Meta-Learning, and Reinforcement learning.
+Growing up, I was always intrigued by different languages, especially my mother tongue Bengali. I have always found it to be grammatically convoluted and yet so exquisite in practice, especially in the classical literature and song lyrics. On top of that, So beautiful to hear in the ears. Which eventually led me to pick Natural Language Processing (NLP) as my working domain. Apart from NLP, I also have an interest in other AI domains such as Computational Cognitive Science, Human-Computer Interaction, Federated Learning, Meta-Learning, Reinforcement learning, Healthcare/Medical AI, and Computer Vision.
 <br>
 <br>
-In my leisure, I pursue my hobbies. I am really into music and I play the Bass guitar, I also love to take photographs, I also love sketching, writing, reading books and watching movies.
+In my leisure, I pursue my hobbies. I am really into music and I play the bass guitar, I also love to take photographs, I also love sketching, writing, reading books and watching movies.
 
 
 

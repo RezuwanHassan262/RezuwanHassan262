@@ -13,7 +13,7 @@
 ![Dart](https://img.shields.io/badge/Dart-01d2b9?style=flat-square&logo=dart&logoColor=04599c)
 ![Flutter](https://img.shields.io/badge/Flutter-0CC1F3?style=flat-square&logo=flutter&logoColor=white)
 
-![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
+![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B)
 
 
 <!-- 

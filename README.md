@@ -14,6 +14,9 @@ Badge logos copied from here: https://badges.pages.dev/
 ![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B)
 
 **Libraries and Frameworks:**
+![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-0CC1F3?logo=flutter&logoColor=white&style=flat-square)
 

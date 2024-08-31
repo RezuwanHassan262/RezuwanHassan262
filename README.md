@@ -1,18 +1,21 @@
  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, This is Md. Rezuwan Hassan and welcome to my GitHub!</h1>
 
 
+<!-- 
+Badge logos copied from here: https://badges.pages.dev/
+-->
 
 **Programming Languages:**
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Dart Badge](https://img.shields.io/badge/Dart-01d2b9?logo=dart&logoColor=04599c&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B)
 
 **Libraries and Frameworks:**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
+![Flutter Badge](https://img.shields.io/badge/Flutter-0CC1F3?logo=flutter&logoColor=white&style=flat-square)
 ![Flutter](https://img.shields.io/badge/Flutter-0CC1F3?style=flat-square&logo=flutter&logoColor=white)
 
 **Other Tools:**

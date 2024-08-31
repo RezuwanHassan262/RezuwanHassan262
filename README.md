@@ -50,7 +50,7 @@ Badge logos copied from here: https://badges.pages.dev/
 
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
 ![Overleaf Badge](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=flat-square)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
 
 <!--
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)

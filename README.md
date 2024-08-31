@@ -1,20 +1,18 @@
- <h1><> Hey, This is Md. Rezuwan Hassan and welcome to my GitHub!</h1>
+ <h1>Hey, This is Md. Rezuwan Hassan and welcome to my GitHub!</h1>
 
 
 <!-- 
 Badge logos copied from here: https://badges.pages.dev/
 -->
 
-**Programming Languages:**
-
+<!-- **Programming Languages:**-->
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Dart Badge](https://img.shields.io/badge/Dart-01d2b9?logo=dart&logoColor=04599c&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B)
-
-**Libraries and Frameworks:**
+<!-- **Libraries and Frameworks:**-->
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
@@ -25,12 +23,8 @@ Badge logos copied from here: https://badges.pages.dev/
 ![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-0CC1F3?logo=flutter&logoColor=white&style=flat-square)
-
-<!-- ![matlab](https://img.shields.io/badge/matlab-white.svg?style=flat-square&logo=
-)
--->
-**Developer Tools:**
-
+<!-- ![matlab](https://img.shields.io/badge/matlab-white.svg?style=flat-square&logo=)-->
+<!--**Developer Tools:**-->
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=flat-square)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)
 ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat-square)

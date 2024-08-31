@@ -11,8 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-01d2b9?style=flat-square&logo=dart&logoColor=04599c)
-![Dart](https://img.shields.io/badge/Dart-38B2AC?style=flat-square&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0CC1F3?style=flat-square&logo=flutter&logoColor=white)
+
+![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
 
 
 <!-- 

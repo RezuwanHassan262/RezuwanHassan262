@@ -16,15 +16,15 @@ Badge logos copied from here: https://badges.pages.dev/
 **Libraries and Frameworks:**
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-0CC1F3?logo=flutter&logoColor=white&style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-0CC1F3?style=flat-square&logo=flutter&logoColor=white)
 
 **Other Tools:**
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=HuggingFace&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
+![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square)
 
-![MATLAB]()
 
-![MATLAB](https://img.shields.io/badge/mathworks-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+<!--!
+[MATLAB](https://img.shields.io/badge/mathworks-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+-->
 
 
 <!-- 

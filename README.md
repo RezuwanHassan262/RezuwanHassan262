@@ -19,6 +19,7 @@ Badge logos copied from here: https://badges.pages.dev/
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
+![Plotly Badge](https://img.shields.io/badge/Keras-3F4F75?logo=keras&logoColor=fff&style=flat-square)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)

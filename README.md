@@ -11,7 +11,6 @@
 ![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B)
 
 **Libraries and Frameworks:**
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0CC1F3?style=flat-square&logo=flutter&logoColor=white)
 

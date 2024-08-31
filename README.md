@@ -10,11 +10,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B)
 
+**Libraries and Frameworks:**
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0CC1F3?style=flat-square&logo=flutter&logoColor=white)
+
 **Other Tools:**
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=HuggingFace&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0CC1F3?style=flat-square&logo=flutter&logoColor=white)
+
 
 
 

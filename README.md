@@ -10,8 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0CC1F3?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=04599c)
+![Dart](https://img.shields.io/badge/Dart-0CC1F3?style=flat-square&logo=dart&logoColor=04599c)
+![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=white)
 
 
 

@@ -1,6 +1,6 @@
  <h1>Hey, This is Md. Rezuwan Hassan and welcome to my GitHub!</h1>
 
-<h3 align="left">Tech Stacks</h3>
+<h2 align="left">Tech Stacks</h2>
 <!-- 
 Badge logos copied from here: https://badges.pages.dev/
 -->

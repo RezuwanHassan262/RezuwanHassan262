@@ -7,7 +7,7 @@
 
 
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat)
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat-square)
+![Dart Badge](https://img.shields.io/badge/Dart-01d2b9?logo=dart&logoColor=fff&style=flat-square)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=plastic)
 
 

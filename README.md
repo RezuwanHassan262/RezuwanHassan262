@@ -39,13 +39,14 @@ Badge logos copied from here: https://badges.pages.dev/
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
 
 
-
+<!--
 **Other Tools:**
 
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat-square)
 ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat-square)
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat-square)
+-->
 
 <!-- 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

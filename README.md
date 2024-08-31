@@ -2,7 +2,7 @@
 
 
 
-**Programming Languages: **
+**Programming Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-01d2b9?style=flat-square&logo=dart&logoColor=04599c)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

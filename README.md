@@ -6,6 +6,7 @@ Badge logos copied from here: https://badges.pages.dev/
 -->
 
 **Programming Languages:**
+
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Dart Badge](https://img.shields.io/badge/Dart-01d2b9?logo=dart&logoColor=04599c&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
@@ -14,6 +15,7 @@ Badge logos copied from here: https://badges.pages.dev/
 ![C](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B)
 
 **Libraries and Frameworks:**
+
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)

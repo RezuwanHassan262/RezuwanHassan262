@@ -155,5 +155,14 @@ youtube
   </tr>
 </table>
 
+
 <!-- -->
 
+<div style="display: flex;">
+  <div style="margin-right: 10px; margin-top: 20px; border: none; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=RezuwanHassan262&show_icons=true&theme=radical" alt="GitHub Stats">
+  </div>
+</div>

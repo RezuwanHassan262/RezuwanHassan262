@@ -19,8 +19,8 @@ Badge logos copied from here: https://badges.pages.dev/
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
-![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
 ![SciPy Badge](https://img.shields.io/badge/SciPy-0C55A5?logo=scipy&logoColor=white&style=flat-square)
+![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square)
 ![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square)
@@ -141,13 +141,6 @@ Here are some ideas to get you started:
 <a href="https://www.deviantart.com/noobdoodlerrazor" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/deviantart-round-color-icon.svg" alt="Deviant Art Link" height="30" width="30" /></a>
 <a href="https://medium.com/@rezwanhasan626" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Link" height="30" width="40" /></a>
 
-
-
-
-
-
-
-
 <!--
 youtube
 
@@ -156,3 +149,4 @@ youtube
 
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="RezuwanHassan262" /></p>

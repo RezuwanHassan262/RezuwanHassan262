@@ -91,6 +91,7 @@ Badge logos copied from here: https://badges.pages.dev/
 
 
 ---
+<h2 align="left">About</h2>
 
 <h3>I'm a passionate, hardworking, and skilled Machine Learning Engineer.</h3>
 

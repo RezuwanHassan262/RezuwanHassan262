@@ -133,6 +133,8 @@ youtube
 
 <h2 align="left">Github Stats</h2>
 
+![GIthub view counts](https://komarev.com/ghpvc/?username=RezuwanHassan262&abbreviated=true)
+
 <table>
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">

@@ -157,14 +157,3 @@ youtube
 
 <!-- -->
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=RezuwanHassan262&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-  </tr>
-</table>
-

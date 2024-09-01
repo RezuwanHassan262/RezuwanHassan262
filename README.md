@@ -146,10 +146,10 @@ youtube
 
 <table>
   <tr style="border: none;">
-    <td style="vertical-align: top;">
+    <td style="border: none; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=RezuwanHassan262&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
   </tr>

@@ -135,7 +135,7 @@ youtube
 
 
 <div style="vertical-align: flex;">
-  <div style="margin-right: 10px; margin-top: 20px;">
+  <div style="vertical-align: 10px; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="Rezuwan's languages" alt="Most Used Languages">
   </div>
   <div>

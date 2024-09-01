@@ -110,8 +110,11 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 
 <h2 align="left">Contact</h2>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1651248595/58473/gmail-intensifies.gif?1651248595" alt="Gmail" style="vertical-align: middle; margin-right: 5px; width=25;">
-<a href="mailto:rezwanhasan262@gmail.com">rezwanhasan262@gmail.com</a>
+<div style="display: flex; align-items: center;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1651248595/58473/gmail-intensifies.gif?1651248595" alt="Gmail" style="width: 20px; height: 20px; margin-right: 5px;">
+  <a href="mailto:rezwanhasan262@gmail.com">rezwanhasan262@gmail.com</a>
+</div>
+
 
 <!-- 
 <img src="https://emojis.slackmojis.com/emojis/images/1651248595/58473/gmail-intensifies.gif?1651248595" width="25"/> rezwanhasan262@gmail.com

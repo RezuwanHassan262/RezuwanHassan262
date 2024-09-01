@@ -6,7 +6,6 @@ Badge logos copied from here: https://badges.pages.dev/
 -->
 
 **Programming Languages:**
-
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Dart Badge](https://img.shields.io/badge/Dart-01d2b9?logo=dart&logoColor=04599c&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
@@ -15,7 +14,6 @@ Badge logos copied from here: https://badges.pages.dev/
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
 
 **Libraries and Frameworks:**
-
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
@@ -25,14 +23,11 @@ Badge logos copied from here: https://badges.pages.dev/
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat-square)
 ![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square)
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat-square)
-
-
 ![Flutter Badge](https://img.shields.io/badge/Flutter-0CC1F3?logo=flutter&logoColor=white&style=flat-square)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
 
 <!-- ![matlab](https://img.shields.io/badge/matlab-white.svg?style=flat-square&logo=)-->
 **Developer Tools:**
-
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=flat-square)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)
 ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat-square)
@@ -47,7 +42,6 @@ Badge logos copied from here: https://badges.pages.dev/
 
 
 **Other Tools:**
-
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
 ![Overleaf Badge](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=flat-square)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)

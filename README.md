@@ -105,27 +105,13 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 
 
 
-My email: rezwanhasan262@gmail.com
-
-
-<!--
-**RezuwanHassan262/RezuwanHassan262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 > _“Machines require large datasets and extensive computational training to replicate what comes to you naturally, so embrace your innate abilities and prioritize your humanity”_
 
 
+---
+<h2 align="left">Contact</h2>
+
+![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square): rezwanhasan262@gmail.com
 
 <h3 align="left">Visit my other profiles:</h3>
 <p align="left">

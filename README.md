@@ -132,7 +132,7 @@ youtube
 -->
 </p>
 
-<h2 align="left">Github Stats</h2>
+<h2 align="left">Stats & Numbers</h2>
 
 ![GIthub view counts](https://komarev.com/ghpvc/?username=RezuwanHassan262&abbreviated=true)
 

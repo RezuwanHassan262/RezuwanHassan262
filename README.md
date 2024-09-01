@@ -129,9 +129,9 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 youtube
 
 -->
-
-
 </p>
+
+<h2 align="left">Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="Rezuwan's languages" height="400" width="400"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=RezuwanHassan262&show_icons=true&theme=radical" alt="Rezuwan's GitHub stats" /></p>

@@ -133,5 +133,5 @@ youtube
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="Rezuwan's languages" height="30" width="30"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezuwanHassan262&show_icons=true&locale=en&layout=compact" alt="Rezuwan's languages" height="300" width="300"/></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=RezuwanHassan262&show_icons=true&theme=radical" alt="Rezuwan's GitHub stats" /></p>

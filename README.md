@@ -111,7 +111,7 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 ---
 <h2 align="left">Contact</h2>
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square): rezwanhasan262@gmail.com
+![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square) rezwanhasan262@gmail.com
 
 <h3 align="left">Visit my other profiles:</h3>
 <p align="left">

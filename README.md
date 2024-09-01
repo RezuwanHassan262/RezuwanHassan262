@@ -1,5 +1,7 @@
  <h1>Hey, This is Md. Rezuwan Hassan and welcome to my GitHub!</h1>
 
+---
+
 <h2 align="left">Tech Stacks</h2>
 <!-- 
 Badge logos copied from here: https://badges.pages.dev/
@@ -89,8 +91,6 @@ Badge logos copied from here: https://badges.pages.dev/
 
 -->
 
-
----
 <h2 align="left">About</h2>
 
 <h3>I'm a passionate, hardworking, and skilled Machine Learning Engineer.</h3>
@@ -108,10 +108,9 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 > _“Machines require large datasets and extensive computational training to replicate what comes to you naturally, so embrace your innate abilities and prioritize your humanity”_
 
 
----
 <h2 align="left">Contact</h2>
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square) rezwanhasan262@gmail.com
+https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white rezwanhasan262@gmail.com
 
 <h3 align="left">Visit my other profiles:</h3>
 <p align="left">

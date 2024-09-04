@@ -6,6 +6,7 @@
 <!-- 
 Badge logos copied from here: https://badges.pages.dev/
 -->
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 
 **Programming Languages:**
 

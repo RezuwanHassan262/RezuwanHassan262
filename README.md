@@ -123,6 +123,10 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 <a href="https://stackoverflow.com/users/14240760/md-rezuwan-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow Link" height="30" width="40" /></a>
 <a href="https://www.flickr.com/photos/139437500@N06/page1" target="blank"><img align="center" src="https://www.flickr.com/favicon.ico" alt="Flickr Link" height="30" width="30" /></a>
 <a href="https://open.spotify.com/user/0efb57bct29kilrcjvkw9jnjk?si=62e69017ee0b4741" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify Link" height="30" width="40" /></a>
+
+<a href="https://www.imdb.com/user/ur62837581/?ref_=nv_usr_prof_2" target="blank"><img align="center" src="https://m.media-amazon.com/images/G/01/IMDb/brand/guidelines/imdb/IMDb_Logo_Rectangle_Gold._CB443386186_.png" alt="IMDb Link" height="30" width="40" /></a>
+
+
 <a href="https://soundcloud.com/listener-rezwan-9" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="SoundCloud Link" height="30" width="40" /></a>
 <a href="https://www.deviantart.com/noobdoodlerrazor" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/deviantart-round-color-icon.svg" alt="Deviant Art Link" height="30" width="30" /></a>
 <a href="https://medium.com/@rezwanhasan626" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Link" height="30" width="40" /></a>

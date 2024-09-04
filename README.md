@@ -9,8 +9,7 @@ Badge logos copied from here: https://badges.pages.dev/
 
 
 **Programming Languages:**
-
-<a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a> <!--Python Badge-->
+<a href="https://www.python.org/"><img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a> <!--Python Badge-->
 ![Dart Badge](https://img.shields.io/badge/Dart-01d2b9?logo=dart&logoColor=04599c&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)

@@ -114,7 +114,10 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 
 <h2 align="left">Contact</h2>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1643514045/38/gmail.png?1643514045" width="25"/> md.rezuwan.hassan@g.bracu.ac.bd || rezuwan@bengali.ai
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1643514045/38/gmail.png?1643514045" width="25"/> md.rezuwan.hassan@g.bracu.ac.bd || rezuwan@bengali.ai -->
+
+<img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" height="25" width="25"/> md.rezuwan.hassan@g.bracu.ac.bd || rezuwan@bengali.ai
+
 
 
 <h3 align="left">Visit my other profiles:</h3>

@@ -155,9 +155,9 @@ youtube
   </tr>
 </table>
 
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/RezuwanHassan262/eagrundy_snake_animation/blob/main/github-contribution-grid-snake.svg)
 
- https://github.com/RezuwanHassan262/eagrundy_snake_animation/blob/main/github-contribution-grid-snake.svg
+ 
  
  
 <!--https://raw.githubusercontent.com/eagrundy/eagrundy/refs/heads/output/github-contribution-grid-snake.svg -->

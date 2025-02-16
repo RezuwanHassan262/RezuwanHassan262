@@ -65,6 +65,8 @@ Badge logos copied from here: https://badges.pages.dev/
 ![Overleaf Badge](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=flat-square)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
 ![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat-square)
+![Roboflow Badge](https://img.shields.io/badge/Roboflow-F58025?logo=roboflow&logoColor=fff&style=flat-square)
+![LabelBox Badge](https://img.shields.io/badge/Labelbox-F58025?logo=labelbox&logoColor=fff&style=flat-square)
 <!--
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat-square)

@@ -17,7 +17,7 @@ Badge logos copied from here: https://badges.pages.dev/
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
-![Markup Badge](https://img.shields.io/badge/Markup-A8B9CC?logo=markup&logoColor=fff&style=flat-square)
+![Markup Badge](https://img.shields.io/badge/Markup-3776AB?logo=markup&logoColor=000000&style=flat)
 
 **Libraries and Frameworks:**
 

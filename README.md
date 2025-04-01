@@ -110,7 +110,7 @@ Badge logos copied from here: https://badges.pages.dev/
 
 <h2 align="left">About</h2>
 
-<h3>I'm a passionate, hardworking, and skilled Machine Learning Engineer.</h3>
+<h3>I'm a passionate and hardworking Artificial intelligence (AI) Engineer.</h3>
 
 
 I completed my B.Sc. in Electrical and Electronic Engineering from BRAC University and M.Sc. in Computer Science and Engineering majoring in Artificial Intelligence from the same institution. <br>

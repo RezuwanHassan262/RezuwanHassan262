@@ -133,7 +133,7 @@ In my leisure, I pursue my hobbies. I am really into arts, Mostly Music. I play 
 
 
 
-<h3 align="left">Visit my other profiles:</h3>
+<h3 align="left">Find me on other platforms:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/md-rezuwan-hasan-04246416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/RezuwanHassan262/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Link" height="30" width="40" /></a>

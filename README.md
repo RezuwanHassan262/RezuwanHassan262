@@ -53,7 +53,7 @@ Badge logos copied from here: https://badges.pages.dev/
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-ffffff?logo=netlify&logoColor=00C7B7&style=flat-square)
-![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=flat-square)
+![Gradio Badge](https://img.shields.io/badge/Gradio-fab500?logo=gradio&logoColor=fff&style=flat-square)
 ![Streamlit Badge](https://img.shields.io/badge/Streamlit-20242f?logo=streamlit&logoColor=7d343b&style=flat-square) 
 ![Render Badge](https://img.shields.io/badge/Render-ffffff?logo=render&logoColor=000000&style=flat-square)
 <!-- ![Vercel Badge](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=000&style=flat-square) -->

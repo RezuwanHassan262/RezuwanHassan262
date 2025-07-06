@@ -15,7 +15,7 @@ Badge logos copied from here: https://badges.pages.dev/
 ![Dart Badge](https://img.shields.io/badge/Dart-01d2b9?logo=dart&logoColor=04599c&style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
 ![Markup Badge](https://img.shields.io/badge/Markup-3776AB?logo=markup&logoColor=000000&style=flat)
 
